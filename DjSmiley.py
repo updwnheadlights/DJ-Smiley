@@ -161,4 +161,4 @@ async def dm(ctx):
 async def change_status():
     await client.change_presence(activity=discord.Game(choice(status)))
 
-client.run('OTMyOTY4MTgzOTkwNzQzMDcw.YeasVA.clbVapVmdpFAuQ1C-dpmNVTYDlk')
+client.run('token')
